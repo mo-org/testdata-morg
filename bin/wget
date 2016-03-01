@@ -1,0 +1,3 @@
+wget --user=foo --password=secret http://example.com
+wget --ftp-user foo --ftp-password=secret ftp://example.com
+wget --http-user foo --http-password=secret http://example.com
